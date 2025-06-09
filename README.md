@@ -1,0 +1,2 @@
+# Clustering-Countries-by-Development-Indicators-Socio-Economic-Health-Data-
+This project aims to categorize countries based on key socio-economic and health-related indicators to assess and compare their levels of overall development. Using unsupervised learning techniques such clustering algorithms (K-Means, Hierarchical). These insights can help NGOs understand global disparities and target interventions effectively
